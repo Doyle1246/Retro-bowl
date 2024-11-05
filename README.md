@@ -21,7 +21,7 @@
               border: 0px;
               font-family: Arial, sans-serif;
             }
-            iframe {
+            iframe {https://github.com/Doyle1246/Retro-bowl/blob/main/README.md
                 width: 100%;
                 height: 100vh;
                 border: none;
