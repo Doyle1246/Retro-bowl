@@ -31,7 +31,7 @@
     <body>
         <div class="game-container">
             <!-- Embed Retro Bowl Game via iframe -->
-            <iframe src="https://github.com/Doyle1246/Retro-bowl/edit/main/README.md" 
+            <iframe src="https://github.com/Doyle1246/Retro-bowl/blob/main/README.md" 
                     title="Retro Bowl Game"
                     allowfullscreen>
             </iframe>
