@@ -1,4 +1,3 @@
-# Retro-bowl
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -21,7 +20,7 @@
               border: 0px;
               font-family: Arial, sans-serif;
             }
-            iframe {https://github.com/Doyle1246/Retro-bowl/blob/main/README.md
+            iframe {
                 width: 100%;
                 height: 100vh;
                 border: none;
@@ -32,11 +31,10 @@
     <body>
         <div class="game-container">
             <!-- Embed Retro Bowl Game via iframe -->
-            <iframe src="https://your-hosted-game-url.com/index.html" 
+            <iframe src="https://github.com/Doyle1246/Retro-bowl/edit/main/README.md" 
                     title="Retro Bowl Game"
                     allowfullscreen>
             </iframe>
         </div>
     </body>
 </html>
-
